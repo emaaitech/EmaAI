@@ -67,14 +67,42 @@ cd EmaAI
 pip install -r requirements.txt
 ```
 
-###This will install the following libraries:
+### This will install the following libraries:
 
-- **openai** – For accessing the OpenAI API to generate mood-enhancing suggestions.
+- **``openai``** – For accessing the OpenAI API to generate mood-enhancing suggestions.
   
-- **matplotlib** – For data visualization (plotting mood trends over time).
+- **``matplotlib``** – For data visualization (plotting mood trends over time).
   
-- **tkinter** or PyQt – For GUI development (depending on your choice).
+- **``tkinter``** or PyQt – For GUI development (depending on your choice).
   
-- **csv** – For handling mood data storage in CSV files.
+- **``csv``** – For handling mood data storage in CSV files.
   
-#### If you're using a specific virtual environment, make sure to activate it before running the pip install command.
+#### If you're using a specific virtual environment, make sure to activate it before running the ``pip install`` command.
+
+### Step 3: Set up the OpenAI API
+To generate suggestions, you'll need to set up your OpenAI API key.
+
+ 1. Visit OpenAI's website and create an API key if you haven't already.
+ 2. Replace ``'your-openai-api-key'`` in the ``suggestions_engine.py`` file with your actual API key.
+
+```bash
+openai.api_key = 'your-openai-api-key'
+```
+
+### Step 4: Run the application
+Once you've installed all dependencies and set up the API key, you can start the application by running:
+
+```bash
+python main.py
+```
+
+
+### Notes:
+- **Replace placeholders**: Update `yourusername` with your actual GitHub username.
+- **Screenshot**: Add a screenshot of the GUI under the **Screenshots** section by replacing `path_to_screenshot_image.png` with the actual image file path.
+- **License**: You can either include a `LICENSE` file in your project or adjust the **License** section according to your preferences.
+
+This should provide a complete overview and guide for users and contributors to your **EmaAI** project.
+
+Let me know if you'd like to make any further adjustments!
+
