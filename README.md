@@ -66,3 +66,12 @@ cd EmaAI
 ```bash
 pip install -r requirements.txt
 ```
+---
+
+This will install the following libraries:
+
+- **openai** – For accessing the OpenAI API to generate mood-enhancing suggestions.
+- **matplotlib** – For data visualization (plotting mood trends over time).
+- **tkinter** or PyQt – For GUI development (depending on your choice).
+- **csv** – For handling mood data storage in CSV files.
+If you're using a specific virtual environment, make sure to activate it before running the pip install command.
