@@ -96,8 +96,3 @@ Once you've installed all dependencies and set up the API key, you can start the
 python main.py
 ```
 
-
-### Notes:
-- **Replace placeholders**: Update `yourusername` with your actual GitHub username.
-- **Screenshot**: Add a screenshot of the GUI under the **Screenshots** section by replacing `path_to_screenshot_image.png` with the actual image file path.
-- **License**: You can either include a `LICENSE` file in your project or adjust the **License** section according to your preferences.
