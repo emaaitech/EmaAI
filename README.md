@@ -1,4 +1,30 @@
-# **EmaAI: Emotion and Mood Assistant AI**
+# **
+                                                                                                                
+                                                                                                                
+EEEEEEEEEEEEEEEEEEEEEE                                                              AAA               IIIIIIIIII
+E::::::::::::::::::::E                                                             A:::A              I::::::::I
+E::::::::::::::::::::E                                                            A:::::A             I::::::::I
+EE::::::EEEEEEEEE::::E                                                           A:::::::A            II::::::II
+  E:::::E       EEEEEE   mmmmmmm    mmmmmmm     aaaaaaaaaaaaa                   A:::::::::A             I::::I  
+  E:::::E              mm:::::::m  m:::::::mm   a::::::::::::a                 A:::::A:::::A            I::::I  
+  E::::::EEEEEEEEEE   m::::::::::mm::::::::::m  aaaaaaaaa:::::a               A:::::A A:::::A           I::::I  
+  E:::::::::::::::E   m::::::::::::::::::::::m           a::::a              A:::::A   A:::::A          I::::I  
+  E:::::::::::::::E   m:::::mmm::::::mmm:::::m    aaaaaaa:::::a             A:::::A     A:::::A         I::::I  
+  E::::::EEEEEEEEEE   m::::m   m::::m   m::::m  aa::::::::::::a            A:::::AAAAAAAAA:::::A        I::::I  
+  E:::::E             m::::m   m::::m   m::::m a::::aaaa::::::a           A:::::::::::::::::::::A       I::::I  
+  E:::::E       EEEEEEm::::m   m::::m   m::::ma::::a    a:::::a          A:::::AAAAAAAAAAAAA:::::A      I::::I  
+EE::::::EEEEEEEE:::::Em::::m   m::::m   m::::ma::::a    a:::::a         A:::::A             A:::::A   II::::::II
+E::::::::::::::::::::Em::::m   m::::m   m::::ma:::::aaaa::::::a        A:::::A               A:::::A  I::::::::I
+E::::::::::::::::::::Em::::m   m::::m   m::::m a::::::::::aa:::a      A:::::A                 A:::::A I::::::::I
+EEEEEEEEEEEEEEEEEEEEEEmmmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaa     AAAAAAA                   AAAAAAAIIIIIIIIII
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+ Emotion and Mood Assistant AI**
 
 EmaAI is an intelligent mood-tracking and suggestion system designed to help users improve their emotional well-being. By leveraging Python, the OpenAI API, and advanced data visualization techniques, EmaAI offers personalized suggestions based on user inputs and tracks mood changes over time.
 
