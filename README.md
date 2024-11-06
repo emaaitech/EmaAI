@@ -60,7 +60,9 @@ Follow these steps to install and run **EmaAI** on your local machine.
 ```bash
 git clone https://github.com/yourusername/EmaAI.git
 cd EmaAI
+```
 
 ### Step 2: Clone the repository
 ```bash
 pip install -r requirements.txt
+```
