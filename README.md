@@ -101,8 +101,3 @@ python main.py
 - **Replace placeholders**: Update `yourusername` with your actual GitHub username.
 - **Screenshot**: Add a screenshot of the GUI under the **Screenshots** section by replacing `path_to_screenshot_image.png` with the actual image file path.
 - **License**: You can either include a `LICENSE` file in your project or adjust the **License** section according to your preferences.
-
-This should provide a complete overview and guide for users and contributors to your **EmaAI** project.
-
-Let me know if you'd like to make any further adjustments!
-
